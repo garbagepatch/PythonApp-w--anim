@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>drawing.png</file>
+    <file>flammable.png</file>
+    <file>corrosive.png</file>
+    <file>environment.png</file>
+    <file>HHM.png</file>
+    <file>Non haz.png</file>
+    <file>respiratory.png</file>
+    <file>toxic.png</file>
+    <file>ULS.jpg</file>
+    <file>warning.png</file>
+  </qresource>
+</RCC>
